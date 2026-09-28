@@ -15,19 +15,12 @@ Use these sections as a directory, or browse repositories by topic:
 | Repository | Focus |
 |---|---|
 | [LOCAL-AI-SECURITY](https://github.com/hsze/LOCAL-AI-SECURITY) | Discovering and protecting local AI models, RAG applications, and agents |
-| [azure-openai-api-levelup](https://github.com/hsze/azure-openai-api-levelup) | Tutorials for building applications with Azure OpenAI |
-| [microhacks-trust-ai](https://github.com/hsze/microhacks-trust-ai) | Trustworthy AI microhack |
 
 ### Security
 
 | Repository | Focus |
 |---|---|
 | [defender-sql-testing](https://github.com/hsze/defender-sql-testing) | Microsoft Defender for SQL alert validation lab |
-| [CAF-Infra-Security](https://github.com/hsze/CAF-Infra-Security) | Cloud Adoption Framework infrastructure security |
-| [Microsoft-Defender-for-Cloud](https://github.com/hsze/Microsoft-Defender-for-Cloud) | Defender for Cloud community resources |
-| [MindMaps](https://github.com/hsze/MindMaps) | Security mind maps |
-| [juice-shop](https://github.com/hsze/juice-shop) | OWASP vulnerable application for security learning |
-| [vulnerable-node](https://github.com/hsze/vulnerable-node) | Vulnerable Node.js application for analyzer testing |
 
 ### Networking
 
@@ -41,6 +34,18 @@ Use these sections as a directory, or browse repositories by topic:
 | [connectionmonitor-example](https://github.com/hsze/connectionmonitor-example) | Azure Network Watcher Connection Monitor example |
 | [troubleshooting-tips](https://github.com/hsze/troubleshooting-tips) | Azure networking troubleshooting commands and tips |
 | [PrivateLink](https://github.com/hsze/PrivateLink) | Azure Private Link content and labs |
+
+### Useful Resources
+
+| Repository | Focus |
+|---|---|
+| [azure-openai-api-levelup](https://github.com/hsze/azure-openai-api-levelup) | Tutorials for building applications with Azure OpenAI |
+| [microhacks-trust-ai](https://github.com/hsze/microhacks-trust-ai) | Trustworthy AI microhack |
+| [CAF-Infra-Security](https://github.com/hsze/CAF-Infra-Security) | Cloud Adoption Framework infrastructure security |
+| [Microsoft-Defender-for-Cloud](https://github.com/hsze/Microsoft-Defender-for-Cloud) | Defender for Cloud community resources |
+| [MindMaps](https://github.com/hsze/MindMaps) | Security mind maps |
+| [juice-shop](https://github.com/hsze/juice-shop) | OWASP vulnerable application for security learning |
+| [vulnerable-node](https://github.com/hsze/vulnerable-node) | Vulnerable Node.js application for analyzer testing |
 
 ### Learning and GitHub Skills
 
@@ -57,4 +62,4 @@ Use these sections as a directory, or browse repositories by topic:
 | [simple-azure-test](https://github.com/hsze/simple-azure-test) | Azure testing practice |
 | [well-architected](https://github.com/hsze/well-architected) | Well-Architected Framework reference |
 
-> Some repositories above are forks retained as useful learning or reference material.
+> The Useful Resources section contains forked repositories retained as references.
